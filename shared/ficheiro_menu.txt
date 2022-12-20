@@ -1,0 +1,18 @@
+[
+    {
+        "codigo_do_prato" : 123,
+        "NomeDoPrato": "Cozido à Portuguesa",
+        "Preco": 5.60,
+        "Tipo": "Português",
+        "Regime": "Normal",
+        "Ingredientes": ["Legumes cozidos", "Batata Cozida", "Variedade de carne e enchidos cozidos"]
+    },
+    {
+        "codigo_do_prato" : 124,
+        "NomeDoPrato": "Rancho",
+        "Preco": 5.60,
+        "Tipo": "Português",
+        "Regime": "Normal",
+        "Ingredientes": ["Legumes cozidos", "Massa", "Variedade de carne e enchidos cozidos", "Grão de Bico"]
+    }
+]
